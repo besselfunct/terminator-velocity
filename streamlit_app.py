@@ -25,4 +25,4 @@ for angle in theta_range:
   circumference = 2 * np.pi * circum_radius
   accumulator.append(circumference)
 
-st.print(accumulator)
+st.write(accumulator)
