@@ -26,3 +26,4 @@ for angle in theta_range:
   accumulator.append(circumference)
 
 st.write(accumulator)
+st.write(theta_range)
